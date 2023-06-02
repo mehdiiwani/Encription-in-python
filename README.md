@@ -26,7 +26,7 @@ Navigate to the project directory
 cd SecureData
 ```
 
-# Install the required dependencies
+Install the required dependencies
 
 ```
 pip install -r requirements.txt
