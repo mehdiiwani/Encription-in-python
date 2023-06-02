@@ -1,0 +1,4 @@
+# requirements.txt
+
+tkinter==8.6    # GUI framework for the application
+base64==1.0.0   # Encoding and decoding base64 data
